@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Pompadur; /* Гарнитура шрифта */
+    src: url(fonts/Avenir-Medium.eot), url(fonts/Myriad_Pro.eot), url(fonts/MyriadPro-Semibold.eot); /* Для IE5-8 */
+    src: local(pompadur), url(fonts/Avenir-Medium.ttf), url(fonts/MyriadPro-Semibold.otf), url(fonts/Myriad_Pro.ttf); /* Для остальных браузеров */
+}
+
+h1 {
+
+    font-family: "Myriad Pro", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 125px;
+    margin-top: 150px;
+    margin-left: 125px;
+}
+
+.h_letter {
+    font-family: "Myriad Pro", Arial, Helvetica, sans-serif;
+    font-size: 83px;
+    font-weight: normal;
+}
+.h2{
+  margin: auto;
+    margin-left: 30px;
+}
+.trapesiya{
+
+  margin: auto;
+}
