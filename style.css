@@ -3,13 +3,14 @@
     src: url(fonts/Avenir-Medium.eot), url(fonts/Myriad_Pro.eot), url(fonts/MyriadPro-Semibold.eot); /* Для IE5-8 */
     src: local(pompadur), url(fonts/Avenir-Medium.ttf), url(fonts/MyriadPro-Semibold.otf), url(fonts/Myriad_Pro.ttf); /* Для остальных браузеров */
 }
-header{
+
+header {
     padding: 0;
     margin: 0;
 }
 
 h1 {
-max-height: 381px;
+    max-height: 381px;
     font-family: "Myriad Pro", Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 125px;
@@ -20,10 +21,11 @@ max-height: 381px;
 
 .h_letter {
 
-     font-size: 83px;
-     font-weight: normal;
+    font-size: 83px;
+    font-weight: normal;
     padding-top: 0;
- }
+}
+
 .h1_letter {
 
     font-size: 90px;
@@ -31,19 +33,31 @@ max-height: 381px;
     padding-bottom: 0;
 
 }
-.h2{
-  margin: auto;
+
+.h2 {
+    margin: auto;
     margin-left: 30px;
 }
-.brd{
+
+.brd {
     border: 6px solid black;
     max-width: 215px;
     margin-top: 0;
     margin-left: 125px;
     padding-top: 0;
 }
-.trapesiya{
+
+.h3_letter {
+
+    font-size: 35px;
+    font-family: "Avenir Medium", Arial, Helvetica, sans-serif;
+    max-height: 125px;
+    max-width:240px ;
+    margin: 0 0 0 125px;
+}
+
+.trapesiya {
     padding: 0;
-margin: 0;
-  margin: auto;
+    margin: 0;
+    margin: auto;
 }
